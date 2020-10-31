@@ -1,1 +1,2 @@
 # GuiComparator
+![](gif/demo.gif)
